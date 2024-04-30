@@ -4,7 +4,7 @@ A scifi colony game
 [![CI](https://github.com/retro-game/retro-game/workflows/CI/badge.svg)](https://github.com/retro-game/retro-game/actions)
 
 ## Running
-You can run retro-game on Docker Compose:
+You can run project-p on Docker Compose:
 ```shell script
 docker-compose up
 ```
