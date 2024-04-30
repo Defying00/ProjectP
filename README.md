@@ -1,5 +1,5 @@
-# Retro Game
-An OGame clone in retro style
+# Project P
+A scifi colony game
 
 [![CI](https://github.com/retro-game/retro-game/workflows/CI/badge.svg)](https://github.com/retro-game/retro-game/actions)
 
